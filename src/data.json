@@ -1,0 +1,23 @@
+{
+  "data": {
+  "title": "Articles and useful tips",
+  "introduction": "Read on for useful information about tasty and health food. Interesting events and recipes. New meal plans and specialized diets for weight loss and gain."
+  },
+  "cards":[
+    {
+      "title":"Descubra os Benefícios do Consumo de Frutas Diariamente",
+      "image": "/img/frutas.jpg",
+      "text": "Incorporar frutas em sua dieta diária não é apenas delicioso, mas também traz uma série de benefícios para a saúde. Doçura natural, vitaminas, fibras e antioxidantes são apenas alguns dos nutrientes essenciais que você pode obter. De maçãs a morangos, melancias a kiwis, cada fruta traz sua própria gama de vantagens. Então, da próxima vez que sentir vontade de beliscar algo, opte por uma fruta fresca e dê um impulso à sua saúde."
+    },
+    {
+      "title":"Dicas para uma Alimentação Equilibrada e Saborosa",
+      "image": "/img/cores-dos-vegetais.jpg",
+      "text": "Manter uma dieta equilibrada pode parecer desafiador, mas não precisa ser assim. Experimente incorporar uma variedade de alimentos em suas refeições, incluindo vegetais coloridos, grãos integrais, proteínas magras e gorduras saudáveis. Uma combinação adequada desses elementos não só proporcionará os nutrientes necessários para o seu corpo, mas também garantirá uma explosão de sabores em cada garfada. Comer bem nunca foi tão delicioso!"
+    },
+    {
+      "title":"A Importância de Hidratar-se Adequadamente: Água, a Essência da Vida",
+      "image": "/img/agua-mineral.jpg",
+      "text": "Quando se trata de nutrição, não podemos esquecer a importância da hidratação adequada. Água é essencial para quase todas as funções do nosso corpo, desde regular a temperatura até transportar nutrientes. Manter-se hidratado não só melhora o funcionamento do corpo, como também pode ajudar a controlar o apetite e manter a pele radiante. Então, lembre-se de beber água regularmente ao longo do dia e faça dela sua bebida número um para uma vida saudável e vibrante."
+    }
+  ]
+}

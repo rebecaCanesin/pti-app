@@ -1,0 +1,39 @@
+.container{
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100vw;
+
+}
+.title__container{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+.cards__container{
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  justify-content: center;
+  width: 100vw;
+  padding: 20px;
+  margin-top: 70px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card{
+  width: 380px;
+}
+.card__img{
+  border-radius: 35px;
+  width: 380px;
+  height: 250px;
+}
+.card__text{
+  opacity: 0.5;
+}
+.button__readMore{
+  cursor: pointer;
+}
